@@ -1,0 +1,5 @@
+vue create functional
+cd functional/
+vue add unit-jest
+vue add typescript
+#vi .eslintrc.js 
