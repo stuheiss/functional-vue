@@ -2,4 +2,6 @@ vue create functional
 cd functional/
 vue add unit-jest
 vue add typescript
+#fix duplicate keyword "extends" in .eslintrc.js
 #vi .eslintrc.js 
+yarn add pointfree-fantasy
