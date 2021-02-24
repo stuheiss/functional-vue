@@ -5,3 +5,5 @@ vue add typescript
 #fix duplicate keyword "extends" in .eslintrc.js
 #vi .eslintrc.js 
 yarn add pointfree-fantasy
+yarn add lenses
+yarn add folktale
